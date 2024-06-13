@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"t4","characterIndex":0,"characterName":"main_walk","classId":2,"equips":[17,0,0,0,0],"faceIndex":0,"faceName":"main_face","traits":[{"code":51,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":50,"name":"Theresa","nickname":"the Rebooter","note":"","profile":"Theresa the rebooter, graduated with distinction\nfrom VTC High Diploma in Software Engineering course"},
+{"id":2,"battlerName":"s4","characterIndex":1,"characterName":"main_walk","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"main_face","traits":[{"code":51,"dataId":5,"value":1}],"initialLevel":1,"maxLevel":50,"name":"Scarlette","nickname":"the Matter Hatter","note":"","profile":"Scarlette, known as \"Matter Hatter\". graduated from VTC\nwith outstanding results in Hi-Diploma of Chemical-Tech"},
+{"id":3,"battlerName":"e4","characterIndex":0,"characterName":"e2","classId":3,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"main_face","traits":[{"code":51,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":50,"name":"Elaine","nickname":"the Mech Spartan","note":"","profile":"Elaine \"the Mech Spartan\", graduated from VTC\nMechanical Engineering with exceptional results"},
+{"id":4,"battlerName":"m4","characterIndex":2,"characterName":"main_walk","classId":4,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"main_face","traits":[{"code":51,"dataId":4,"value":1}],"initialLevel":1,"maxLevel":50,"name":"Maya","nickname":"the Mathelete","note":"","profile":"Maya, the Mathelete, got really nice results in VTC\ngot a job from a math science company."}
+]
